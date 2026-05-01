@@ -6,4 +6,3 @@ Sentry.init({
 });
 
 console.log("Sentry is watching!");
-throw new Error("Testing Sentry from the Live Server!");
